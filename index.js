@@ -15,6 +15,8 @@ const obj = {
 
 class A {
     foo() {
-        console.log('Linter');
+        console.log('Linter'); 
     }
 }
+
+const newLine = 10;
