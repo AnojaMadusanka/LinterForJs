@@ -11,6 +11,7 @@
         "class-methods-use-this":"off",
 
         "max-lines-per-function": ["error", { "max": 10 }],
-        "spaced-comment": ["error", "always", { "markers": ["/"] }]
+        "spaced-comment": ["error", "always", { "markers": ["/"] }],
+        "camelcase": ["error", {"ignoreDestructuring": false}]
     }
 }
